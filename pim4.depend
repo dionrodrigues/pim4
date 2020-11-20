@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1605820738 source:c:\users\dionc\documents\projetos-faculdade\pim4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.c"
+
+1605822042 c:\users\dionc\documents\projetos-faculdade\pim4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"cadastro.c"
+
+1605824150 c:\users\dionc\documents\projetos-faculdade\pim4\cadastro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paciente.h"
+
+1605821634 c:\users\dionc\documents\projetos-faculdade\pim4\paciente.h
+
